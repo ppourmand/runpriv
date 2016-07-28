@@ -288,20 +288,3 @@ void change_sniff(void){
 		printf("There was an error with chmod. Errno value: %s", strerror(errno));
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
